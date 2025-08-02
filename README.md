@@ -9,7 +9,7 @@ Convolutional Neural Networks (CNNs)
 Convolutional Neural Networks are a class of deep neural networks designed for processing grid-like data, such as images. CNNs consist of multiple layers, including convolutional layers, pooling layers, and fully connected layers. These networks are particularly effective in feature extraction and pattern recognition tasks.
 
 # Dataset
-dowload (train): https://www.kaggle.com/datasets/muhammadardiputra/potato-leaf-disease-dataset
+download (train): https://www.kaggle.com/datasets/muhammadardiputra/potato-leaf-disease-dataset
 The dataset used for this project comprises high-resolution images of healthy and diseased potato plants. The dataset is divided into training and testing sets to train and evaluate the CNN model.
 
 # Results
