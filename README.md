@@ -1,16 +1,68 @@
-# Potato-Disease-Classification-using-CNN
-This project aims to classify diseases in potato plants using Convolutional Neural Networks (CNNs). The deep learning model is trained on a dataset of potato plant images to identify and categorize different diseases affecting the crops.
+<div align="center">
 
-# Overview
-Potato cultivation is a crucial aspect of agriculture, and diseases can significantly impact crop yield. This project leverages deep learning techniques, specifically CNNs, to automate the process of identifying and classifying diseases in potato plants. The trained model can be used as a tool for early detection and intervention, helping farmers make informed decisions about crop management.
+# 🥔 POTATO DISEASE CLASSIFIER (CNN)
+### **Internship Project | Deep Learning & Computer Vision**
+*Automating crop health diagnostics with 99% classification accuracy.*
 
-# CNN Explained
-Convolutional Neural Networks (CNNs)
-Convolutional Neural Networks are a class of deep neural networks designed for processing grid-like data, such as images. CNNs consist of multiple layers, including convolutional layers, pooling layers, and fully connected layers. These networks are particularly effective in feature extraction and pattern recognition tasks.
+<br />
 
-# Dataset
-download (train): https://www.kaggle.com/datasets/muhammadardiputra/potato-leaf-disease-dataset
-The dataset used for this project comprises high-resolution images of healthy and diseased potato plants. The dataset is divided into training and testing sets to train and evaluate the CNN model.
+![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-Neural%20Networks-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-# Results
-The trained model achieves an accuracy of 99% on the test set. Detailed evaluation metrics and visualizations can be found in the Results notebook.
+---
+</div>
+
+## 🎓 Internship Overview
+This project was developed during my internship to address critical challenges in agriculture. The goal was to build a reliable tool for farmers to identify potato leaf diseases early using AI, helping to prevent crop loss and improve management decisions.
+
+---
+
+## ✨ Key Features
+- ⚡ **High Precision:** Achieved an impressive **99% accuracy** on the test dataset.
+- 🖼️ **CNN Powered:** Uses Convolutional Neural Networks for advanced image pattern recognition.
+- 📊 **Automated Diagnosis:** Classifies potato leaves into categories (Healthy vs. Diseased) instantly.
+- 📂 **Structured Data:** Trained on high-resolution imagery from the [Kaggle Potato Leaf Dataset](https://www.kaggle.com/datasets/muhammadardiputra/potato-leaf-disease-dataset).
+
+---
+
+## 🛠️ Tech Stack & Concepts
+- **Programming Language:** Python
+- **Deep Learning:** CNN (Convolutional Neural Networks)
+- **Libraries:** TensorFlow, Keras, NumPy, Matplotlib
+- **Tooling:** Jupyter Notebooks for training and evaluation
+
+---
+
+## 🧠 How it Works (Simple Breakdown)
+1. **Convolutional Layers:** These layers act as "filters" that scan the images to find unique patterns (like spots or discoloration on leaves).
+2. **Pooling Layers:** These simplify the information, making the model faster and more efficient.
+3. **Classification:** The final layers decide which specific disease the plant has based on the patterns identified.
+
+---
+
+## 📈 Results
+- **Test Accuracy:** 99%
+- **Outcome:** The model successfully distinguishes between various disease states with minimal error. Detailed visualizations of the training curves and confusion matrices are available in the project notebooks.
+
+---
+
+### 🤝 Let's Connect!
+
+<div align="center">
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/anurag-thakur-0aaba52a0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:itsanuragofficial7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/Anurag781" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</div>
